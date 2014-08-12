@@ -23,6 +23,12 @@ Note: You can [customize which Pure modules you need][customize].
 $ bower install --save pure
 ```
 
+**Install with npm:**
+
+```shell
+$ npm install --save purecss
+```
+
 
 [Pure]: http://purecss.io/
 [Bower]: http://bower.io/
@@ -80,6 +86,12 @@ You can also install Pure using [Bower][], using the following command:
 
 ```shell
 $ bower install --save pure
+```
+
+This fork allow you to install Pure from npm:
+
+```shell
+$ npm install --save purecss
 ```
 
 
