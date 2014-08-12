@@ -1,0 +1,16 @@
+{
+  "name": "purecss",
+  "version": "0.5.0",
+  "description": "Release directory of Pure for NPM package.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yui/pure-release.git"
+  },
+  "keywords": [
+    "pure",
+    "purecss",
+    "yahoo"
+  ],
+  "author": "YUI Team",
+  "license": "BSD"
+}
