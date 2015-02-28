@@ -4,8 +4,9 @@
   "description": "Release directory of Pure for NPM package.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yui/pure-release.git"
+    "url": "https://github.com/yahoo/pure-release.git"
   },
+  "style": "pure.css",
   "keywords": [
     "pure",
     "purecss",
